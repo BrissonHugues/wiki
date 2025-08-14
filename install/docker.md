@@ -3,7 +3,7 @@ title: Docker
 description: Getting started with the Docker image
 published: true
 date: 2024-09-18T01:09:44.271Z
-tags: setup, docker
+tags: setup, docker, Client1, Client2
 editor: markdown
 dateCreated: 2019-02-15T04:23:08.720Z
 ---

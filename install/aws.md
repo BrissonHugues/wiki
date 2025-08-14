@@ -3,7 +3,7 @@ title: Install on AWS
 description: Using the DigitalOcean Marketplace Pre-Built Image
 published: true
 date: 2020-07-14T04:14:09.475Z
-tags: setup, guide
+tags: setup, guide, Client2
 editor: markdown
 ---
 
