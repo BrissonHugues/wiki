@@ -11,7 +11,7 @@ dateCreated: 2019-02-15T04:20:30.188Z
 > Documentation COCD sur Wiki.js!
 {.is-success}
 
-# Getting Started
+# Guide du parfait surveillance
 
 Wiki.js is quick and easy to install. You should be up and running in no time.
 
