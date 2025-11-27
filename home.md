@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2019-02-15T04:20:30.188Z
 ---
 
-> This documentation site is running on Wiki.js!
+> Documentation COCD sur Wiki.js!
 {.is-success}
 
 # Getting Started
